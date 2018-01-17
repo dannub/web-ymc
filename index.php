@@ -124,7 +124,7 @@ universitas dian nuswantoro, young Moslem creativity, ymc, Moslem creativity, ym
 <!-- about -->
 	<div class="about" id="about">
 		<div class="container">
-			<h3>Young Moslem Creativity 2018</h3>
+			<h3>Young Moslem Creativity 2018 horeee</h3>
 			<p class="dolor">"Membangkitkan Peran Pemuda dalam Membangun Negeri yang Madani"</p>
 			<div class="about-grids">
 				<div class="col-sm-6 about-grid about-one">
